@@ -9,6 +9,11 @@ Een parcour met sleutel en deur
 ________________________________________
 Screenshot / GIF van je level
   ![alt text](../../sd/les6/galgje2/images/level.png)
+
+  ![Uploading Video Project.gif…]()
+
+
+
 ________________________________________
 Bewegend object
 coin
